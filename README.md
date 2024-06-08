@@ -79,7 +79,7 @@ Mohammed Kashif Ahmed
 ![image](https://github.com/M-K4SH1F/2048-Game/assets/159590221/0e4dd38e-b3e2-4aaf-ae8b-2664452585c1)
 
 ## Contributing
-We welcome contributions to enhance the Parking Payment Management System. Please follow these steps:
+I want you to know that contributions to enhance this game are always welcome. Please follow these steps:
 
    1. Fork the repository.
    2. Create a new branch for your feature or bug fix.
