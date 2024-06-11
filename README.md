@@ -14,7 +14,7 @@ Mohammed Kashif Ahmed
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/2048-Game
+   git clone https://github.com/M-K4SH1F/2048-Game
    cd 2048-Game
    
 2. **Install Dependencies:**
