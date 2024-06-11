@@ -14,8 +14,8 @@ Mohammed Kashif Ahmed
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Parking-Payment-Management-System.git
-   cd Parking-Payment-Management-System
+   git clone https://github.com/yourusername/2048-Game
+   cd 2048-Game
    
 2. **Install Dependencies:**
    - Ensure you have Python and Pygame installed. You can install Pygame using pip:
